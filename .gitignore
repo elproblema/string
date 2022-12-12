@@ -1,0 +1,5 @@
+.*
+build/**
+compile_commands.json
+last_log
+last_stage_log
